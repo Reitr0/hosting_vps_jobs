@@ -67,6 +67,7 @@ const Cover = ({ landing, loggedin, landing_banner_image }: any) => {
                         {t(`Buy Sell & Trade `)}
                       </span>
                       <span>{t(`Crypto Currency`)}</span>
+                      <span>{t(`Crypto Currency`)}</span>
                     </>
                   )}
                 </h1>
